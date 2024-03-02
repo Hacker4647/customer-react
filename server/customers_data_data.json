@@ -1,0 +1,402 @@
+[
+  {
+    "sno": 1,
+    "customer_name": "Shaik Iqbal",
+    "age": 42,
+    "phone": "1234567890",
+    "location": "Cumbum",
+    "created_at": "2024-02-11T20:30:00.000Z"
+  },
+  {
+    "sno": 2,
+    "customer_name": "Shaik Imran",
+    "age": 21,
+    "phone": "1234567891",
+    "location": "Cumbum",
+    "created_at": "2024-02-11T19:30:00.000Z"
+  },
+  {
+    "sno": 3,
+    "customer_name": "Shaik Intiyaz",
+    "age": 20,
+    "phone": "1234567892",
+    "location": "Cumbum",
+    "created_at": "2024-02-13T22:00:00.000Z"
+  },
+  {
+    "sno": 4,
+    "customer_name": "Shaik Harun",
+    "age": 50,
+    "phone": "1234567893",
+    "location": "Cumbum",
+    "created_at": "2024-02-14T21:00:00.000Z"
+  },
+  {
+    "sno": 5,
+    "customer_name": "Shaik Abdul Samad",
+    "age": 47,
+    "phone": "1234567894",
+    "location": "Cumbum",
+    "created_at": "2024-02-15T20:30:00.000Z"
+  },
+  {
+    "sno": 6,
+    "customer_name": "Shaik Rafi",
+    "age": 38,
+    "phone": "1234567895",
+    "location": "B.Peta",
+    "created_at": "2024-02-17T02:30:00.000Z"
+  },
+  {
+    "sno": 7,
+    "customer_name": "Syed Khaleel",
+    "age": 58,
+    "phone": "1234567896",
+    "location": "B.Peta",
+    "created_at": "2024-02-17T23:30:00.000Z"
+  },
+  {
+    "sno": 8,
+    "customer_name": "Syed Muneer",
+    "age": 28,
+    "phone": "1234567897",
+    "location": "B.Peta",
+    "created_at": "2024-02-19T00:00:00.000Z"
+  },
+  {
+    "sno": 9,
+    "customer_name": "Syed Mujeeb",
+    "age": 24,
+    "phone": "1234567898",
+    "location": "B.Peta",
+    "created_at": "2024-02-20T00:30:00.000Z"
+  },
+  {
+    "sno": 10,
+    "customer_name": "Syed Intihiyaz",
+    "age": 21,
+    "phone": "1234567899",
+    "location": "B.Peta",
+    "created_at": "2024-02-21T01:00:00.000Z"
+  },
+  {
+    "sno": 11,
+    "customer_name": "Shaik Moulali",
+    "age": 21,
+    "phone": "1234567809",
+    "location": "B.Peta",
+    "created_at": "2024-01-08T01:30:00.000Z"
+  },
+  {
+    "sno": 12,
+    "customer_name": "Shaik Abdul Rahaman",
+    "age": 21,
+    "phone": "1234567808",
+    "location": "Markapur",
+    "created_at": "2024-01-09T01:30:00.000Z"
+  },
+  {
+    "sno": 13,
+    "customer_name": "Shaik Mastan",
+    "age": 42,
+    "phone": "1234567807",
+    "location": "Markapur",
+    "created_at": "2024-01-10T06:30:00.000Z"
+  },
+  {
+    "sno": 14,
+    "customer_name": "Shaik Mohammad Rafi",
+    "age": 39,
+    "phone": "1234567806",
+    "location": "Markapur",
+    "created_at": "2024-01-10T20:30:00.000Z"
+  },
+  {
+    "sno": 15,
+    "customer_name": "Shaik Firoz",
+    "age": 18,
+    "phone": "1234567805",
+    "location": "Markapur",
+    "created_at": "2024-01-11T21:30:00.000Z"
+  },
+  {
+    "sno": 16,
+    "customer_name": "Shaik Afroz",
+    "age": 16,
+    "phone": "1234567804",
+    "location": "Markapur",
+    "created_at": "2024-01-12T19:30:00.000Z"
+  },
+  {
+    "sno": 17,
+    "customer_name": "Shaik Sohel",
+    "age": 12,
+    "phone": "1234567803",
+    "location": "Ongole",
+    "created_at": "2024-01-13T22:30:00.000Z"
+  },
+  {
+    "sno": 18,
+    "customer_name": "Shaik Tanveer",
+    "age": 10,
+    "phone": "1234567802",
+    "location": "Ongole",
+    "created_at": "2024-01-15T06:30:00.000Z"
+  },
+  {
+    "sno": 19,
+    "customer_name": "Shaik Fakkruh",
+    "age": 36,
+    "phone": "1234567801",
+    "location": "Ongole",
+    "created_at": "2024-01-15T20:30:00.000Z"
+  },
+  {
+    "sno": 20,
+    "customer_name": " A Anil Kumar ",
+    "age": 21,
+    "phone": "1234567800",
+    "location": "Ongole",
+    "created_at": "2024-01-16T20:30:00.000Z"
+  },
+  {
+    "sno": 21,
+    "customer_name": "V Anil Kumar Reddy",
+    "age": 22,
+    "phone": "1234567009",
+    "location": "Ongole",
+    "created_at": "2024-01-17T20:30:00.000Z"
+  },
+  {
+    "sno": 22,
+    "customer_name": "Syed Nagoor Basha",
+    "age": 21,
+    "phone": "1234567001",
+    "location": "Kurnool",
+    "created_at": "2024-01-18T20:30:00.000Z"
+  },
+  {
+    "sno": 23,
+    "customer_name": "G Rahul Teja",
+    "age": 20,
+    "phone": "1234567002",
+    "location": "Kurnool",
+    "created_at": "2024-01-19T20:30:00.000Z"
+  },
+  {
+    "sno": 24,
+    "customer_name": "I Manikanta",
+    "age": 22,
+    "phone": "1234567003",
+    "location": "Kurnool",
+    "created_at": "2024-01-20T20:30:00.000Z"
+  },
+  {
+    "sno": 25,
+    "customer_name": "Shaik Nayab",
+    "age": 23,
+    "phone": "1234567004",
+    "location": "Kurnool",
+    "created_at": "2024-01-21T20:30:00.000Z"
+  },
+  {
+    "sno": 26,
+    "customer_name": "Shaik Irfan",
+    "age": 16,
+    "phone": "1234567005",
+    "location": "Kurnool",
+    "created_at": "2024-01-22T20:30:00.000Z"
+  },
+  {
+    "sno": 27,
+    "customer_name": "T Gowtham",
+    "age": 21,
+    "phone": "1234567006",
+    "location": "Vijayawada",
+    "created_at": "2024-01-23T20:30:00.000Z"
+  },
+  {
+    "sno": 28,
+    "customer_name": "Y Bhaskar Reddy",
+    "age": 22,
+    "phone": "1234567007",
+    "location": "Vijayawada",
+    "created_at": "2023-12-01T20:00:00.000Z"
+  },
+  {
+    "sno": 29,
+    "customer_name": "T Hanuma Reddy",
+    "age": 21,
+    "phone": "1234567008",
+    "location": "Vijayawada",
+    "created_at": "2023-12-02T20:00:00.000Z"
+  },
+  {
+    "sno": 30,
+    "customer_name": "D Sai Akshay",
+    "age": 20,
+    "phone": "1234567019",
+    "location": "Vijayawada",
+    "created_at": "2023-12-03T20:00:00.000Z"
+  },
+  {
+    "sno": 31,
+    "customer_name": "P Kasi Sainath",
+    "age": 22,
+    "phone": "1234567018",
+    "location": "Vijayawada",
+    "created_at": "2023-12-04T20:00:00.000Z"
+  },
+  {
+    "sno": 32,
+    "customer_name": "RKR Sai Lokesh",
+    "age": 21,
+    "phone": "1234567017",
+    "location": "Hyderbad",
+    "created_at": "2023-12-05T20:00:00.000Z"
+  },
+  {
+    "sno": 33,
+    "customer_name": "V Venkatesh",
+    "age": 20,
+    "phone": "1234567016",
+    "location": "Hyderbad",
+    "created_at": "2023-12-06T20:00:00.000Z"
+  },
+  {
+    "sno": 34,
+    "customer_name": "M Mahesh",
+    "age": 22,
+    "phone": "1234567015",
+    "location": "Hyderbad",
+    "created_at": "2023-12-07T20:00:00.000Z"
+  },
+  {
+    "sno": 35,
+    "customer_name": "D Khadar",
+    "age": 21,
+    "phone": "1234567014",
+    "location": "Hyderbad",
+    "created_at": "2023-12-08T20:00:00.000Z"
+  },
+  {
+    "sno": 36,
+    "customer_name": "Gururmurthi",
+    "age": 20,
+    "phone": "1234567013",
+    "location": "Hyderbad",
+    "created_at": "2023-12-09T20:00:00.000Z"
+  },
+  {
+    "sno": 37,
+    "customer_name": "Guru",
+    "age": 22,
+    "phone": "1234567012",
+    "location": "Guntur",
+    "created_at": "2023-12-10T20:00:00.000Z"
+  },
+  {
+    "sno": 38,
+    "customer_name": "Meeravali",
+    "age": 21,
+    "phone": "1234567011",
+    "location": "Guntur",
+    "created_at": "2023-12-11T20:00:00.000Z"
+  },
+  {
+    "sno": 39,
+    "customer_name": "Khasim",
+    "age": 20,
+    "phone": "1234560009",
+    "location": "Guntur",
+    "created_at": "2023-12-12T20:00:00.000Z"
+  },
+  {
+    "sno": 40,
+    "customer_name": "Mastan Vali",
+    "age": 22,
+    "phone": "1234560008",
+    "location": "Guntur",
+    "created_at": "2023-12-13T20:00:00.000Z"
+  },
+  {
+    "sno": 41,
+    "customer_name": "Rehan",
+    "age": 15,
+    "phone": "1234560003",
+    "location": "Guntur",
+    "created_at": "2023-12-14T20:00:00.000Z"
+  },
+  {
+    "sno": 42,
+    "customer_name": "Riyaz",
+    "age": 16,
+    "phone": "1234560004",
+    "location": "Nellore",
+    "created_at": "2023-12-15T20:00:00.000Z"
+  },
+  {
+    "sno": 43,
+    "customer_name": "Shaik Arif",
+    "age": 24,
+    "phone": "1234560005",
+    "location": "Nellore",
+    "created_at": "2023-12-16T20:00:00.000Z"
+  },
+  {
+    "sno": 44,
+    "customer_name": "Shaik Asif",
+    "age": 17,
+    "phone": "1234560006",
+    "location": "Nellore",
+    "created_at": "2023-12-17T20:00:00.000Z"
+  },
+  {
+    "sno": 45,
+    "customer_name": "Nagoor",
+    "age": 18,
+    "phone": "1234560007",
+    "location": "Nellore",
+    "created_at": "2023-12-18T20:00:00.000Z"
+  },
+  {
+    "sno": 46,
+    "customer_name": "Imran",
+    "age": 16,
+    "phone": "1234560008",
+    "location": "Nellore",
+    "created_at": "2023-12-19T20:00:00.000Z"
+  },
+  {
+    "sno": 47,
+    "customer_name": "P Yunus Khan",
+    "age": 20,
+    "phone": "1234560009",
+    "location": "Vizag",
+    "created_at": "2023-12-20T20:00:00.000Z"
+  },
+  {
+    "sno": 48,
+    "customer_name": "P Yusuf Khan",
+    "age": 23,
+    "phone": "1234560010",
+    "location": "Vizag",
+    "created_at": "2023-12-21T20:00:00.000Z"
+  },
+  {
+    "sno": 49,
+    "customer_name": "Rasool",
+    "age": 22,
+    "phone": "1234560012",
+    "location": "Vizag",
+    "created_at": "2023-12-23T20:05:00.000Z"
+  },
+  {
+    "sno": 50,
+    "customer_name": "Irfan",
+    "age": 18,
+    "phone": "1234560013",
+    "location": "Vizag",
+    "created_at": "2023-12-23T20:00:00.000Z"
+  }
+]

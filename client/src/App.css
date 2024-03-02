@@ -1,0 +1,128 @@
+*{
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(./IRONMAN.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+  
+.container{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 80vw;
+  margin-left: 10rem;
+  margin-top: .8rem;
+}
+
+.container p{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+}
+.text-end{
+  margin-top: 20px;
+}
+
+.sorting-text{
+  margin-top: 20px;
+  width: 12rem;
+  height: 2rem;
+  border-radius: 8px;
+}
+
+input{
+  width: 16rem;
+  height: 2rem;
+  border-radius: 8px;
+  box-shadow:0 10px 20px rgba(0, 183, 255, 0.845) ;
+}
+
+table{
+  width: 80rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.204);
+  border-collapse: collapse;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  background: #ffffff79;
+ 
+}
+th{
+  padding: 0.8rem;
+  background-color: #fff;
+  color: black;
+}
+
+th:first-of-type{
+  border-top-left-radius: 10px;
+}
+
+th:last-of-type{
+  border-top-right-radius: 10px;
+}
+
+tr:hover{
+  background-color: rgb(232,232,232);
+}
+
+.nextrow th{
+  border-radius: 0;
+}
+
+.btn-container{
+  margin: auto;
+  width: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.btn-container button{
+  border: none;
+  padding: 0.5rem 1rem;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-container button:disabled{
+  cursor: not-allowed;
+  background-color: rgb(229,229,229);
+  color: rgba(0,0,0,0.269);;
+}
+
+td{
+  padding: .3rem;
+}
+
+.text-container{
+  display: flex;
+  justify-content: center;
+}
+
+.text-container button{
+  margin-left: 10px;
+  width: 50px;
+  margin-top:10px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+.text-container button:hover{
+  width: 60px;
+  background-color: green;
+  color: white;
+}
